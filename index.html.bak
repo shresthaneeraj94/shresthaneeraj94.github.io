@@ -1,0 +1,584 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Neeraj Shrestha</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="author" content="" />
+
+  <!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="css/flexslider.css">
+	<!-- Flaticons  -->
+	<link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+	<div id="colorlib-page">
+		<div class="container-wrap">
+		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
+			<div class="text-center">
+				<div class="author-img" style="background-image: url(images/about.jpg);"></div>
+				<h1 id="colorlib-logo"><a href="index.html">Neeraj Shrestha</a></h1>
+				<span class="position">Ms. Cybersecurity student @ <a href="https://www.utoledo.edu/">UToledo </a> | Security +</span>
+			</div>
+			<nav id="colorlib-main-menu" role="navigation" class="navbar">
+				<div id="navbar" class="collapse">
+					<ul>
+						<li><a href="#" data-nav-section="about">About Me</a></li>
+						<li><a href="#" data-nav-section="skills">Technical Skills</a></li>
+						<li><a href="#" data-nav-section="education">Education</a></li>
+						<li><a href="#" data-nav-section="experience">Experience</a></li>
+						<li><a href="#" data-nav-section="work">Projects</a></li>
+						<li><a href="#" data-nav-section="blog">Blog</a></li>
+						<li><a href="#" data-nav-section="contact">Contact</a></li>
+					</ul>
+				</div>
+			</nav>
+
+
+		</aside>
+
+		<div id="colorlib-main">
+
+			<section class="colorlib-about" data-section="about">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+								<div class="col-md-12">
+									<div class="about-desc">
+										<h2 class="colorlib-heading">Who Am I?</h2>
+										<p><strong>Hi I'm Neeraj Shrestha.</strong> I am a self-motivated and passionate cybersecurity professional pursuing a Master of Science in cybersecurity at the University of Toledo with a strong background in web application development, 3 months of internship experience in a security operations team, and some experience in web application security testing and bug bounty hunting.</p>
+										
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
+									<div class="services color-1">
+										<span class="icon2"><i class="icon-user2"></i></span>
+										<h3>Cybersecurity Professional</h3>
+									</div>
+								</div>
+								<div class="col-md-3 animate-box" data-animate-effect="fadeInRight">
+									<div class="services color-2">
+										<span class="icon2"><i class="icon-globe-outline"></i></span>
+										<h3>Web Application Developer</h3>
+									</div>
+								</div>
+								<div class="col-md-3 animate-box" data-animate-effect="fadeInTop">
+									<div class="services color-3">
+										<span class="icon2"><i class="icon-search3"></i></span>
+										<h3>Bug Bounty Hunter</h3>
+									</div>
+								</div>
+								<div class="col-md-3 animate-box" data-animate-effect="fadeInBottom">
+									<div class="services color-4">
+										<span class="icon2"><i class="icon-paper-stack"></i></span>
+										<h3>Security Researcher</h3>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+
+		
+
+			<section class="colorlib-skills" data-section="skills">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<h2 class="colorlib-heading animate-box">Technical Skills</h2>
+						</div>
+					</div>
+				
+					<div class="row row-pt-md">
+						<div class="col-md-4 text-center animate-box">
+							<div class="services color-1">
+								<span class="icon">
+									<i class="icon-bulb"></i>
+								</span>
+								<div class="desc">
+									<h3>Tools</h3>
+									<p>Splunk, InsightVM, Carbon Black, Medigate, Infoblox, ServiceNow, Nmap, Metasploit, Burp Suite </p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 text-center animate-box">
+							<div class="services color-2">
+								<span class="icon">
+									<i class="icon-book"></i>
+								</span>
+								<div class="desc">
+									<h3>Programming/Scripting</h3>
+									<p>PHP, C, C++, HTML, CSS, JavaScript, SQL, Python, Joomla, WordPress, VHDL</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 text-center animate-box">
+							<div class="services color-3">
+								<span class="icon">
+									<i class="icon-data"></i>
+								</span>
+								<div class="desc">
+									<h3>DBMS</h3>
+									<p>MySQL, PostgreSQL</p>
+								</div>
+							</div>
+						</div>
+						</div>
+						<div class="row row-pt-md">
+						<div class="col-md-4 text-center animate-box">
+							<div class="services color-4">
+								<span class="icon">
+									<i class="icon-layers2"></i>
+								</span>
+								<div class="desc">
+									<h3>Frameworks & Libraries</h3>
+									<p>Codeigniter, Laravel, jQuery, NumPy, Scikit‑learn</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 text-center animate-box">
+							<div class="services color-5">
+								<span class="icon">
+									<i class="icon-device-laptop"></i>
+								</span>
+								<div class="desc">
+									<h3>Operating System</h3>
+									<p>Windows, Linux, MacOS, Kali Linux</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 text-center animate-box">
+							<div class="services color-6">
+								<span class="icon">
+									<i class="icon-bag"></i>
+								</span>
+								<div class="desc">
+									<h3>Miscellaneous</h3>
+									<p>Git, Docker, Adobe Photoshop, MS Word, Powerpoint, Excel, Xilinx Vivado</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="colorlib-education" data-section="education">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<span class="heading-meta">Education</span>
+							<h2 class="colorlib-heading animate-box">Education</h2>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
+							<div class="fancy-collapse-panel">
+								<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+									<div class="panel panel-default">
+									    <div class="panel-heading" role="tab" id="headingOne">
+									        <h4 class="panel-title">
+									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">Master of Science in Cybersecurity
+									            </a>
+									        </h4>
+									    </div>
+									    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+									        <div class="panel-body">
+														<li><a href="https://www.utoledo.edu/">The University of Toledo</a></li>
+														<li>August 2021 – May 2023 (Expected)</li>
+													</ul>
+									        </div>
+									    </div>
+									</div>
+									<div class="panel panel-default">
+									    <div class="panel-heading" role="tab" id="headingTwo">
+									        <h4 class="panel-title">
+									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Bachelor in Computer Engineering
+									            </a>
+									        </h4>
+									    </div>
+									    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+									        <div class="panel-body">
+													<ul>
+														<li><a href="http://www.tribhuvan-university.edu.np/">Tribhuvan University</a></li>
+														<li>September 2013 – October 2017</li>
+													</ul>
+									        </div>
+									    </div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="colorlib-experience" data-section="experience">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<span class="heading-meta">Experience</span>
+							<h2 class="colorlib-heading animate-box">Work Experience</h2>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">
+				         <div class="timeline-centered">
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+					            <div class="timeline-entry-inner">
+
+					               <div class="timeline-icon color-1">
+					                  <i class="icon-pen2"></i>
+					               </div>
+
+					               <div class="timeline-label">
+					                  <h2><a href="#">Cybersecurity Intern @ ProMedica, Toledo, OH</a> <span>May 2022 - August 2022</span></h2>
+					                  <ul>
+														<li>Handled Indicator of Compromise incidents and did Threat hunting</li>
+														<li>Scanned servers for vulnerabilities. Created Remediation projects for the Server team to fix the found vulnerabilities.</li>
+														<li>Participated in Internal Tabletop exercises simulating attack scenarios and weekly situation review with the CISO</li>
+									   </ul>
+					               </div>
+					            </div>
+					         </article>
+
+
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
+					            <div class="timeline-entry-inner">
+					               <div class="timeline-icon color-2">
+					                  <i class="icon-pen2"></i>
+					               </div>
+					               <div class="timeline-label">
+					               	<h2><a href="#">Graduate Teaching Assistant @ The University of Toledo, Toledo, OH</a> <span>August 2021 - Present</span></h2>
+					                  <ul>
+														<li>Worked as an instructor for PHYS 2130: Physics for Science and Engineering Majors I and EECS 3440: Electronics Laboratory.</li>
+														<li>Worked as a grader for CSET 3300: Database‑Driven Web Sites for 26 students and CSET 4350: Operating Systems for 31 students</li>
+									   </ul>
+					               </div>
+					            </div>
+					         </article>
+
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+					            <div class="timeline-entry-inner">
+					               <div class="timeline-icon color-3">
+					                  <i class="icon-pen2"></i>
+					               </div>
+					               <div class="timeline-label">
+					               	<h2><a href="#">Web Developer @ Smart Solutions, Kathmandu, Nepal</a> <span>June 2018 - July 2021</span></h2>
+					                  <ul>
+														<li>Performed Vulnerability Assessment and Penetration Testing (VAPT) with tools like Burp Suite, Zed Attack Proxy (ZAP), Nmap,
+analyzed the outputs and generated reports, and applied measures to prevent attacks. Found Cross‑Site Scripting (XSS)
+vulnerability in the framework used in many projects using XSS polyglot and reported it to my team leader and fixed it afterward</li>
+														<li>Developed Management Information System (MIS) for NGOs, INGOs, banks including Central Bank of Nepal and Zambia</li>
+														<li>Developed Online Account Opening and KYC system, and Credit and Prepaid Card Application system for banks</li>
+														<li>Created REST APIs for Asset Management System and e‑commerce application</li>
+														<li>Created Facebook messenger chatbot application using Botman framework to make the sources of development data and statistics
+on Nepal available to the general population</li>
+														<li>Implemented unit tests in the projects and wrote test cases for them and also set up the server and deployed code</li>
+														<li>Gained hands‑on‑experience with agile software development methodologies like scrum and used stage‑illustration software like
+JIRA</li>
+									   </ul>
+					               </div>
+					            </div>
+					         </article>
+
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInTop">
+					            <div class="timeline-entry-inner">
+					               <div class="timeline-icon color-4">
+					                  <i class="icon-pen2"></i>
+					               </div>
+					               <div class="timeline-label">
+					               	<h2><a href="#">Bug Bounty Hunter</a> <span>2020 - Present</span></h2>
+					                  <ul><li>Reported bugs like IDOR and information disclosure, and privacy‑related issues to Hackerone, Facebook and Bugv</li></ul>
+					               </div>
+					            </div>
+					         </article>
+
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+					            <div class="timeline-entry-inner">
+					               <div class="timeline-icon color-5">
+					                  <i class="icon-pen2"></i>
+					               </div>
+					               <div class="timeline-label">
+					               	<h2><a href="#">Co-founder and Active Project Participant @ Dunot Developers Pvt. Ltd., Kathamndu, Nepal</a> <span>2017 - Present</span></h2>
+					                  <ul>
+														<li>Co-operated and communicated with the clients throughout different phases of the software development process</li>
+														<li>Worked on the projects assigned to Dunot Developers Pvt. Ltd.</li>
+									   </ul>
+					               </div>
+					            </div>
+					         </article>
+
+					         <article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
+					            <div class="timeline-entry-inner">
+					               <div class="timeline-icon color-none">
+					               </div>
+					            </div>
+					         </article>
+					      </div>
+					   </div>
+				   </div>
+				</div>
+			</section>
+
+			<section class="colorlib-work" data-section="work">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<h2 class="colorlib-heading animate-box">Projects</h2>
+						</div>
+					</div>
+				<div class="row">
+						<div class="col-md-12">
+				         <div class="timeline-centered">
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+					            <div class="timeline-entry-inner">
+
+					               <div class="timeline-icon color-1">
+					                  <i class="icon-pen2"></i>
+					               </div>
+
+					               <div class="timeline-label">
+					                  <h2><a href="#">DDoS Attack and Load Balancing</a> <span>April 2022</span></h2>
+					                  <ul>
+														<li>Studied in detail about DDoS attack and its preventive measures, detection and mitigation techniques</li>
+														<li>Hosted multiple instances of a ticketing system, used GoldenEye tool to simulate DDoS attack on the system</li>
+														<li>Used HAProxy tool to perform load balancing and tested its ability to handled DDoS attack</li>
+														<li>Used EtherApe tool to monitor the network traffic</li>
+									   </ul>
+					               </div>
+					            </div>
+					         </article>
+
+
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
+					            <div class="timeline-entry-inner">
+					               <div class="timeline-icon color-2">
+					                  <i class="icon-pen2"></i>
+					               </div>
+					               <div class="timeline-label">
+					               	<h2><a href="#">Buffer overflow exploit</a> <span>November 2021</span></h2>
+					                  <ul>
+														<li>Exploited a buffer overflow vulnerability in a sorting program written in C using gdb debugger to open a shell</li>
+									   </ul>
+					               </div>
+					            </div>
+					         </article>
+
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+					            <div class="timeline-entry-inner">
+					               <div class="timeline-icon color-3">
+					                  <i class="icon-pen2"></i>
+					               </div>
+					               <div class="timeline-label">
+					               	<h2><a href="#">Demonstration of Burp Suite</a> <span>October 2021</span></h2>
+					                  <ul>
+														<li>Did a detailed study of Burp Suite, prepared a report on it and gave a short presentation and demo in the Fundamentals of Cybersecurity class</li>
+														<li>In the presentation, I explained how to setup up Burp as a proxy, explained Burp suite tools like Intruder, Interceptor, Repeater, Decoder, etc.</li>
+														<li>For the demo, I used Virtual box and hosted two virutal machines: Metasploitable and Kali Linux on it. Metasploitable has a vulnerable web application named Damn Vulnerable Web App and Burp Suite comes pre-installed with Kali Linux. I then demonstrated the use of Intruder tool to perform brute force attack on the login page of DVWA. I also demonstrated the use of Repeater tool to find Insecure direct object references bug on the portSwigger lab.</li>
+														
+									   </ul>
+					               </div>
+					            </div>
+					         </article>
+
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInTop">
+					            <div class="timeline-entry-inner">
+					               <div class="timeline-icon color-4">
+					                  <i class="icon-pen2"></i>
+					               </div>
+					               <div class="timeline-label">
+					               	<h2><a href="#">Email Spam Classification using supervised machine learning</a> <span>October 2021</span></h2>
+					                  <ul><li>Performed data preprocessing, feature extraction, tried various supervised machine learning algorithms like Linear regression,
+gradient boosting, etc. and finally applied Random Forest classifier, which is an ensemble Machine Learning Algorithm, to classify
+3000 emails and achieved 91.7% accuracy</li></ul>
+					               </div>
+					            </div>
+					         </article>
+
+					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+					            <div class="timeline-entry-inner">
+					               <div class="timeline-icon color-5">
+					                  <i class="icon-pen2"></i>
+					               </div>
+					               <div class="timeline-label">
+					               	<h2><a href="#">Vessel Prediction from Automatic Identification System (AIS) Data</a> <span>October 2021</span></h2>
+					                  <ul>
+														<li>Applied different feature preprossing techniques, standardization technique like StandardScaler, unsupervised feature extraction techniques like Kernel Principal Component Analysis and used unsupervised machine learning algorithmns like K-means, Spectral clustering, Hierarchical clustering, DBSCAN, and Gaussian Mixture Model to track the moviement of maritime vessels.</li>
+														<li>Worked on the projects assigned to Dunot Developers Pvt. Ltd.</li>
+									   </ul>
+					               </div>
+					            </div>
+					         </article>
+
+					         <article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
+					            <div class="timeline-entry-inner">
+					               <div class="timeline-icon color-none">
+					               </div>
+					            </div>
+					         </article>
+					      </div>
+					   </div>
+				   </div>	
+				</div>
+			</section>
+
+			<!--<section class="colorlib-blog" data-section="blog">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<span class="heading-meta">Read</span>
+							<h2 class="colorlib-heading">Recent Blog</h2>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="blog-entry">
+								<a href="blog.html" class="blog-img"><img src="images/blog-1.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
+								<div class="desc">
+									<span><small>April 14, 2018 </small> | <small> Web Design </small> | <small> <i class="icon-bubble3"></i> 4</small></span>
+									<h3><a href="blog.html">Renovating National Gallery</a></h3>
+									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="blog-entry">
+								<a href="blog.html" class="blog-img"><img src="images/blog-2.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
+								<div class="desc">
+									<span><small>April 14, 2018 </small> | <small> Web Design </small> | <small> <i class="icon-bubble3"></i> 4</small></span>
+									<h3><a href="blog.html">Wordpress for a Beginner</a></h3>
+									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="blog-entry">
+								<a href="blog.html" class="blog-img"><img src="images/blog-3.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
+								<div class="desc">
+									<span><small>April 14, 2018 </small> | <small> Inspiration </small> | <small> <i class="icon-bubble3"></i> 4</small></span>
+									<h3><a href="blog.html">Make website from scratch</a></h3>
+									<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12 animate-box">
+							<p><a href="#" class="btn btn-primary btn-lg btn-load-more">Load more <i class="icon-reload"></i></a></p>
+						</div>
+					</div>
+				</div>
+			</section> -->
+
+			<section class="colorlib-contact" data-section="contact">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<span class="heading-meta">Get in Touch</span>
+							<h2 class="colorlib-heading">Contact</h2>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-5">
+							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
+								<div class="colorlib-icon">
+									<i class="icon-mail"></i>
+								</div>
+								<div class="colorlib-text">
+									<p><a href="mailto:shresthaneeraj94@gmail.com">shresthaneeraj94@gmail.com</a></p>
+								</div>
+							</div>
+
+							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
+								<div class="colorlib-icon">
+									<i class="icon-social-linkedin"></i>
+								</div>
+								<div class="colorlib-text">
+									<p><a href="https://www.linkedin.com/in/shresthaneeraj94/">https://www.linkedin.com/in/shresthaneeraj94/</a></p>
+								</div>
+							</div>
+
+							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
+								<div class="colorlib-icon">
+									<i class="icon-phone"></i>
+								</div>
+								<div class="colorlib-text">
+									<p><a href="tel://">+1 419 322 1228</a></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		</div><!-- end:colorlib-main -->
+	</div><!-- end:container-wrap -->
+	</div><!-- end:colorlib-page -->
+
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	<!-- Owl carousel -->
+	<script src="js/owl.carousel.min.js"></script>
+	<!-- Counters -->
+	<script src="js/jquery.countTo.js"></script>
+	
+	
+	<!-- MAIN JS -->
+	<script src="js/main.js"></script>
+
+	</body>
+</html>
+
